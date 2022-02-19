@@ -10,7 +10,8 @@ const connection = mysql.createConnection({
     port: 3306,
     user: 'root',
     password: 'green',
-    database: 'employee_DB'
+    database: 'employee_DB',
+    ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory
 });
 
 connection.query = util.promisify(connection.query);
