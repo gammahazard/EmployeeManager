@@ -34,8 +34,11 @@
 
   <img width="412" alt="employeeManagerVisual" src="https://user-images.githubusercontent.com/92896466/154813097-70064f8d-fc71-4c34-9577-b445e32a9c4a.png">
 
+
                                                               WALKTHROUGH
- <img width="auto" alt="walkthrough" src="https://user-images.githubusercontent.com/92896466/154815379-2eda108a-1b44-41ee-8a65-985e167d2565.gif">
+              https://user-images.githubusercontent.com/92896466/154815663-8c6993c9-d596-48af-9bf0-08030d6f89f7.mp4
+
+
 ---
 
 ## Installation:
