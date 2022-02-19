@@ -32,7 +32,8 @@
 
 ## Visuals:
 
-  ![]()
+  <img width="412" alt="f13fde8aa98740cd8a10fcdb7b152d9b" src="https://user-images.githubusercontent.com/92896466/154813097-70064f8d-fc71-4c34-9577-b445e32a9c4a.png">
+
 
 ---
 
