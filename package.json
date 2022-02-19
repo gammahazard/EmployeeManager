@@ -8,7 +8,7 @@
   "name": "employee-tracker",
   "description": "![badge](https://img.shields.io/static/v1?label=license&message=MIT&color=blue)",
   "version": "1.0.0",
-  "main": "employeeManager.js",
+  "main": "index.js",
   "devDependencies": {},
   "scripts": {
     "test": "test"
