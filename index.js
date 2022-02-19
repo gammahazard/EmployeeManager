@@ -11,7 +11,6 @@ const connection = mysql.createConnection({
     user: 'root',
     password: 'green',
     database: 'employee_DB',
-    ssl: 'true&sslfactory=org.postgresql.ssl.NonValidatingFactory'
 });
 
 connection.query = util.promisify(connection.query);
